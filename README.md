@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillsCoder
 - 👀 I’m interested in frontend web development and app implementation
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently working on an amazing project
+- 💞️ I’m looking to collaborate on other projects (Reactjs, Vuejs, Nextjs, React Native)
 - 📫 How to reach me godswillijezei@gmail.com
 
 <!---
